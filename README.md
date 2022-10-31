@@ -5,12 +5,15 @@ In this project, Dana and her team has focused providing detailed analysis of al
 ## Results
 Below screenshot of UFO site shows the description of webpage. How this webpage will help all scientist to gather all UFO sighting data at one place. With help of Visual studio code and HTML, Dana and her team was able to present in depth UFO sightings data and description section is giving glimpsom about it. 
 ![Glimpsom of UFO Sightings](Description of UFO sighting.png)
+
 Below image shows the filter function added to a webpage which is convenient option for scientist to filter the data as per their preference and take out limited information by saving time in searching data on various sites. 
 ![Filter Section of UFO sighting table](Filter section of UFO .png)
+
 This table represents how filter will work when you will select city or date or any other option you want to collect data for and it will generate the information within a second. 
 ![UFO table](Filtered table UFO.png)
+
 ### UFO sighting webpage
-![Webpage](UFO webpage.png)
+![UFO Webpage](UFO webpage.png)
 ## Summary
 - Drawback of the webpage
 First and foremost drawback is user can't select the items from filter section that he/she wants to go for. One should know what they want to find or search on UFO webpage while using filter option. 
